@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 [![Email me](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:josiahparappally@gmail.com) <br>
 [![My github stats](https://github-readme-stats.vercel.app/api?username=parappally&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
+
+
 
 
 
