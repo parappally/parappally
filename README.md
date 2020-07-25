@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 📬 How to reach me: <br>
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/parappally/)
 [![Email me](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:josiahparappally@gmail.com)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
