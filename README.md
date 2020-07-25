@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🐲   I'm Josiah Parappally. I love building apps and websites that solve critical issues for everyday people <br>
+🐲   I'm Josiah Parappally. I love building apps and websites that solve critical issues for people <br>
 💼   I’m currently working at  <br>
 🔭   I’m currently working on building a peer to peer marketplace for buying and selling shoes <br>
 🌱   I’m currently learning Golang <br>
