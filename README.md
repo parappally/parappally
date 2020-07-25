@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 ⚡  Fun fact: I'm currently training to run a half marathon in 2021 <br>
 📬  How to reach me: <br>
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/parappally/)
-[![Email me](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:josiahparappally@gmail.com)
+[![Email me](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:josiahparappally@gmail.com) <br>
+[![Parappally's github stats](https://github-readme-stats.vercel.app/api?username=parappally)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
 
