@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 😄   &nbsp; Pronouns: He/Him <br>
 💬   &nbsp; Ask me about: 🏀 🏋️ <br>
 🔥   &nbsp; Fun fact: I'm currently training to run a half marathon in 2021 <br>
-📬   &nbsp; How to reach me: <br>
+📬   &nbsp; How to reach me:
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/parappally/)
-[![Email me](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:josiahparappally@gmail.com) <br>
+[![Email me](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:josiahparappally@gmail.com)
