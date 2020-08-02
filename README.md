@@ -3,9 +3,9 @@
 🔭   &nbsp; Building a peer to peer marketplace for buying and selling shoes <br>
 🌱   &nbsp; Learning Go <br>
 😄   &nbsp; Pronouns: He/Him <br>
-💬   &nbsp; Ask me about: Basketball, Football, Home Workouts, and Python <br>
+💬   &nbsp; Ask me about: basketball, football, home workouts, and Python <br>
 ⚡   &nbsp; Fun fact: Training to run a half marathon in 2021 <br>
-📬   How to reach me: 
+📬   &nbsp; How to reach me: 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/parappally/)
 [![Email me](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:josiahparappally@gmail.com)
 
