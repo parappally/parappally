@@ -1,5 +1,5 @@
 🐲   &nbsp; I'm Josiah Parappally. I love building apps and websites that solve critical issues for people <br>
-💼   &nbsp; Working at  <br>
+💼   &nbsp; I've worked at Apple, Webveloper, and the Weather Network. <br>
 🔭   &nbsp; Building a peer to peer marketplace for buying and selling shoes <br>
 🌱   &nbsp; Learning Go <br>
 😄   &nbsp; Pronouns: He/Him <br>
