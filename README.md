@@ -6,4 +6,4 @@
 💬   &nbsp; Ask me about: basketball, football, home workouts, and Python <br>
 ⚡   &nbsp; Fun fact: Training to run a half marathon in 2021 <br>
 🤣   &nbsp; Want to change the joke below? Submit an issue to this repository with the title: joke <br>
-😂 What did the Red light say to the Green light? Don't look at me I'm changing! - icanhazdadjoke
+😂 &nbsp; This is my step ladder. I never knew my real ladder. - parappally
