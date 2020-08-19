@@ -5,6 +5,5 @@
 😄   &nbsp; Pronouns: He/Him <br>
 💬   &nbsp; Ask me about: basketball, football, home workouts, and Python <br>
 ⚡   &nbsp; Fun fact: Training to run a half marathon in 2021 <br>
-📬   &nbsp; How to reach me: 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/parappally/)
-[![Email me](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:josiahparappally@gmail.com)
+🤣   &nbsp; Want to change the joke below? Submit an issue to this repository with the title: joke <br>
+😂 What did the Red light say to the Green light? Don't look at me I'm changing! - icanhazdadjoke
