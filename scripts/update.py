@@ -14,7 +14,7 @@ if __name__ == "__main__":
     while (nlines != 0):
         new_joke = get_new_joke()
         nlines = new_joke.count('\n')
-    joke_signature = "😂 {} - {}".format(new_joke, os.getenv("ISSUE_USER_LOGIN", "icanhazdadjoke"))
+    joke_signature = "😂 &nbsp; {} - {}".format(new_joke, os.getenv("ISSUE_USER_LOGIN", "icanhazdadjoke"))
     read_readme_file = open('README.md', 'r') 
     lines = read_readme_file.readlines()
     old_joke = lines[-1]
@@ -23,6 +23,3 @@ if __name__ == "__main__":
         if line != old_joke:
             write_readme_file.write(line)
     write_readme_file.write(joke_signature)
-    append_previous_file = open('archive/PREVIOUS.md', 'a')
-    append_previous_file.write('\n')
-    append_previous_file.write(old_joke)
