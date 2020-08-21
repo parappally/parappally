@@ -5,5 +5,5 @@
 😄   &nbsp; Pronouns: He/Him <br>
 💬   &nbsp; Ask me about: basketball, football, home workouts, and Python <br>
 ⚡   &nbsp; Fun fact: Training to run a half marathon in 2021 <br>
-🤣   &nbsp; Want to change the joke below? Submit an issue to this repository with the title: joke <br>
+🤣   &nbsp; Think the dad joke below isn't funny? [Change it](https://github.com/parappally/parappally/issues/new?template=ISSUE_TEMPLATE.md&title=joke)<br>
 😂 &nbsp; What does a female snake use for support? A co-Bra! - annoyingpr
