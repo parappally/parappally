@@ -1,1 +1,1 @@
-All you have to do is press **Submit new issue**.
+All you have to do is press Submit new issue.
