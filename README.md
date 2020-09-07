@@ -1,6 +1,6 @@
 🐲   &nbsp; I'm Josiah Parappally. I love building apps and websites that solve critical issues for people <br>
 💼   &nbsp; I've worked at Apple, Webveloper, and the Weather Network. <br>
-🔭   &nbsp; Building a peer to peer marketplace for buying and selling shoes <br>
+🔭   &nbsp; Building a peer to peer marketplace for buying and selling shoes - [SN8KRS](https://github.com/parappally/SN8KRS)<br>
 🌱   &nbsp; Learning Go <br>
 😄   &nbsp; Pronouns: He/Him <br>
 💬   &nbsp; Ask me about: basketball, football, home workouts, and Python <br>
