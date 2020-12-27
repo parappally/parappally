@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=parappally&label=HOMIES)
+![](https://komarev.com/ghpvc/?username=parappally&label=views)
